@@ -29,7 +29,7 @@ The dataset was provided by the instructor. It is not included in this repositor
 
 Repository Link
 
-https://github.com/guptasweekar-pixel/Heart_Failure_Readmission_Prediction
+https://github.com/guptasweekar-pixel/Heart_Failure_Readdmission_Prediction/blob/main/heartfailureprediction.ipynb
 
 Tools and Libraries
 
